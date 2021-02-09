@@ -1,0 +1,5 @@
+.git/
+.github/
+
+.pre-commit-hooks.yaml 
+.pre-commit-config.yaml 
